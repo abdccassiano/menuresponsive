@@ -1,0 +1,4 @@
+Instalación de iconos y componentes de reactjs
+npm i styled-components react-icons
+
+
